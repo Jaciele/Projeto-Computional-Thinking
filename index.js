@@ -95,16 +95,3 @@ console.log("###########################################")
 
 
 
-/*var contador = 0;
-var somaDasNotas = 0;
-var totalAlunos = alunos.length;
-
-do {
-  somaDasNotas += alunos[contador].nota;
-
-  contador++;
-} while (contador < totalAlunos);
-
-var media = somaDasNotas / totalAlunos;
-
-console.log(media);*/
